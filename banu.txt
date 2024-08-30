@@ -1,0 +1,22 @@
+<!doctype html>
+  
+<head>
+<title>bengali tiger</title>
+</head>
+ 
+<body bg color="cornsilk">
+<h1>bengali tiger</h1>
+<img scr="tiger.jpg">
+
+<div style="text-transform:capaitalize;">
+<P>
+the tiger was first scientifically described in 1758
+and<br>once ranged widely from the eastern anatolia
+region<br>the west of the amur river basin in the east,
+<br>the himalayas to bali in the sundra island,<br>
+sincethe early 20th centuary<br>tiger population have
+lost at least 93% of their histroic range<br> and have 
+been explained from western to central asia,<br>and
+island of java and bali,<br>and in large areas of
+south-east and south Asia and china,<br>Today the 
+tiger range is f
